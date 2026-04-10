@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-maxisport",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Maxi Sport da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-maxi-sport",
+    "voucher-maxi-sport",
+    "coupon-maxi-sport",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/maxisport.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-maxisport.git"
+  }
+}
